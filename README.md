@@ -30,6 +30,9 @@ Reminders are saved persistently in `reminders.json` and can be managed directly
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
-```bash
+`bash
 git clone https://github.com/ZarhanJaan/reminder-project-desktop.git
-cd reminder-project-desktop
+cd reminder-project-desktop`
+
+📜 License
+MIT License © 2025 Zarhan
